@@ -215,7 +215,7 @@
         <mxCell id="noe4gfNRGWv2lA2J6sTW-79" value="Renovación VPN" style="rounded=1;whiteSpace=wrap;html=1;" parent="noe4gfNRGWv2lA2J6sTW-70" vertex="1">
           <mxGeometry x="460" y="88.75" width="110" height="42.5" as="geometry" />
         </mxCell>
-        <mxCell id="noe4gfNRGWv2lA2J6sTW-81" value="Publish" style="rounded=1;whiteSpace=wrap;html=1;" parent="noe4gfNRGWv2lA2J6sTW-70" vertex="1">
+        <mxCell id="noe4gfNRGWv2lA2J6sTW-81" value="Publish &amp;amp; Logout" style="rounded=1;whiteSpace=wrap;html=1;" parent="noe4gfNRGWv2lA2J6sTW-70" vertex="1">
           <mxGeometry x="620" y="50.5" width="90" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="WqTxuI944V4eX5fr_Rnq-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="noe4gfNRGWv2lA2J6sTW-70" source="WqTxuI944V4eX5fr_Rnq-101" target="WqTxuI944V4eX5fr_Rnq-105" edge="1">
@@ -260,7 +260,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WqTxuI944V4eX5fr_Rnq-52" value="Proceso automatización VPN" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;html=1;" parent="1" vertex="1">
+        <mxCell id="WqTxuI944V4eX5fr_Rnq-52" value="Proceso administración VPN DITIC" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;html=1;" parent="1" vertex="1">
           <mxGeometry x="850" y="1200" width="790" height="670" as="geometry" />
         </mxCell>
         <mxCell id="WqTxuI944V4eX5fr_Rnq-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WqTxuI944V4eX5fr_Rnq-52" source="WqTxuI944V4eX5fr_Rnq-94" target="WqTxuI944V4eX5fr_Rnq-68" edge="1">
