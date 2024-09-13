@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.13">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="890" dy="384" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1122" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -234,7 +234,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GDcYB6Bzzp1uQZlanHpw-5" value="Bitacora procesos VPNs" style="rounded=1;whiteSpace=wrap;html=1;" parent="GDcYB6Bzzp1uQZlanHpw-8" vertex="1">
-          <mxGeometry x="599" y="42.5" width="110" height="42.5" as="geometry" />
+          <mxGeometry x="599" y="36.25" width="110" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="d4bq5ZxsNLSNYlkimwdT-9" value="Autorización Intendencia Seguridad" style="rounded=1;whiteSpace=wrap;html=1;" parent="GDcYB6Bzzp1uQZlanHpw-8" vertex="1">
           <mxGeometry x="69" y="42.5" width="130" height="42.5" as="geometry" />
@@ -297,11 +297,10 @@
         <mxCell id="fS-RcKjKOrNgB4Vsdlcl-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="noe4gfNRGWv2lA2J6sTW-54" source="noe4gfNRGWv2lA2J6sTW-84" target="fS-RcKjKOrNgB4Vsdlcl-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="d4bq5ZxsNLSNYlkimwdT-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="noe4gfNRGWv2lA2J6sTW-54" source="fS-RcKjKOrNgB4Vsdlcl-9" target="d4bq5ZxsNLSNYlkimwdT-9" edge="1">
+        <mxCell id="d4bq5ZxsNLSNYlkimwdT-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="noe4gfNRGWv2lA2J6sTW-54" source="fS-RcKjKOrNgB4Vsdlcl-9" target="d4bq5ZxsNLSNYlkimwdT-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="349" y="590" />
-              <mxPoint x="134" y="590" />
+              <mxPoint x="134" y="555" />
             </Array>
           </mxGeometry>
         </mxCell>
