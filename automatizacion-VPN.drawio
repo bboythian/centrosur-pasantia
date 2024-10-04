@@ -626,7 +626,7 @@
           <mxGeometry x="325" y="614.37" width="110" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="AShnAWnT2ukv3XGmUHD5-32" value="&lt;b&gt;Credentials&lt;/b&gt;" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1350" y="2020" width="180" height="98" as="geometry" />
+          <mxGeometry x="1380" y="2010" width="180" height="98" as="geometry" />
         </mxCell>
         <mxCell id="AShnAWnT2ukv3XGmUHD5-33" value="&lt;b&gt;+ username: &lt;/b&gt;string;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" vertex="1" parent="AShnAWnT2ukv3XGmUHD5-32">
           <mxGeometry y="30" width="180" height="20" as="geometry" />
