@@ -503,6 +503,10 @@
         <mxCell id="AShnAWnT2ukv3XGmUHD5-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="XlXUMsx6N9A0lkpHifQj-19" source="XlXUMsx6N9A0lkpHifQj-56" target="AShnAWnT2ukv3XGmUHD5-6">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="492.42857142857156" y="351.2500000000001" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="382" y="330" />
+              <mxPoint x="490" y="330" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="XlXUMsx6N9A0lkpHifQj-56" value="Replace user" style="rounded=1;whiteSpace=wrap;html=1;" parent="XlXUMsx6N9A0lkpHifQj-19" vertex="1">
