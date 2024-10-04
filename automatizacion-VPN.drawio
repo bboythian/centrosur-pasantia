@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="600" dy="318" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1235" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -624,6 +624,21 @@
         </mxCell>
         <mxCell id="AShnAWnT2ukv3XGmUHD5-19" value="Response: API no Available" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="XlXUMsx6N9A0lkpHifQj-19">
           <mxGeometry x="325" y="614.37" width="110" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="AShnAWnT2ukv3XGmUHD5-32" value="&lt;b&gt;Credentials&lt;/b&gt;" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="2020" width="180" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="AShnAWnT2ukv3XGmUHD5-33" value="&lt;b&gt;+ username: &lt;/b&gt;string;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" vertex="1" parent="AShnAWnT2ukv3XGmUHD5-32">
+          <mxGeometry y="30" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AShnAWnT2ukv3XGmUHD5-34" value="&lt;b&gt;+ password&lt;/b&gt;: date;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" vertex="1" parent="AShnAWnT2ukv3XGmUHD5-32">
+          <mxGeometry y="50" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AShnAWnT2ukv3XGmUHD5-39" value="&lt;b&gt;+ certificate&lt;/b&gt;: .p12;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" vertex="1" parent="AShnAWnT2ukv3XGmUHD5-32">
+          <mxGeometry y="70" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AShnAWnT2ukv3XGmUHD5-36" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="AShnAWnT2ukv3XGmUHD5-32">
+          <mxGeometry y="90" width="180" height="8" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
